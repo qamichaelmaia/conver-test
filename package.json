@@ -10,10 +10,16 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cypress": "^13.15.1",
     "mocha": "^10.8.2"
   },
   "devDependencies": {
-    "cypress-file-upload": "^5.0.8"
+    "allure-commandline": "^2.32.0",
+    "cypress": "^13.15.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "mocha-allure-reporter": "^1.4.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
   }
 }
