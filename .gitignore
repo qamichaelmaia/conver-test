@@ -1,5 +1,4 @@
 node_modules/
 downloads/
 reports/
-fixtures/
-image.png/
+cypress/fixtures/

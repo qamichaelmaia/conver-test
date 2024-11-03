@@ -1,7 +1,0 @@
-
-
-?Testes automatizados com Cypress para o site https://conver-taupe.vercel.app.
-?Este conjunto de testes verifica a funcionalidade e a usabilidade dos principais recursos da aplicação,
-?garantindo uma experiência de usuário consistente e sem erros.
-
-
